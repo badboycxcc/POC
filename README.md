@@ -1,1 +1,1 @@
-# Nuclei Yaml 模板
+# Nuclei POC 模板
